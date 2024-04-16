@@ -11,12 +11,15 @@
            <li>getachew</li>
            <li>html 2nd assment</li>
       </ul>
-      <table style="border:solid" border=1 width="500px" height="100px"      
-           <tr>
+  <table style="border:solid" border=1 width="500px" height="100px"      
+      <tr>
          <td>Head 01</td>
-         <td>Head 02</td></tr><tr>
-         <td>info 01</td>
-         <td>info 02 </td></tr>
-      </table>
+         <td>Head 02</td>
+     </tr>
+     <tr>
+       <td>info 01</td>
+       <td>info 02 </td>
+    </tr>
+  </table>
 </body>
 </html>
